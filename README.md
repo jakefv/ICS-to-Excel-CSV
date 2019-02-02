@@ -1,4 +1,4 @@
-# .ics to CSB
+# .ics to csv
 
 Converts .csv files to CSV file.
 
